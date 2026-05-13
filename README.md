@@ -1,4 +1,4 @@
-# Azure-IAM-Lab
+# Azure IAM & Governance Lab: Implementing Zero Trust via Least Privilege
 
 ### Objective
 To establish a secure identity foundation within a Microsoft Azure environment by configuring User Identities and implementing Role-Based Access Control (RBAC). 
